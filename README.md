@@ -41,8 +41,8 @@ Replace `<your-openai-api-key>` with your actual OpenAI API key.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/thiago-grabe/rag-example.git
+   cd rag-example
    ```
 
 2. **Set Up the Environment**:
